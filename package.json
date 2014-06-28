@@ -11,9 +11,9 @@
     "url": "git://github.com/turbonetix/redistribution.git"
   },
   "keywords": [
-    "bus.io",
-    "monitor",
-    "middleware"
+    "redis",
+    "stream",
+    "distribute"
   ],
   "author": "Nathan G. Romano",
   "license": "MIT",
